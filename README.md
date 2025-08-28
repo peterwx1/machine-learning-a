@@ -5,8 +5,9 @@ The start of the greatest thesis of all time.
 
 # Ideer til speciale:
 
-## <details>
-  <summary>Hvordan "rugged" er et landskab?</summary>
+## 
+<details>
+    <summary>Loss landscape analysis</summary>
 Findes der en metode til at finde ud af hvor "rugged" ens landskab er. Kan man få en værdi på det? så man ved om ens model har svært ved at finde det globale minima
 ChatGPT sagde:
 
